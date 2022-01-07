@@ -39,6 +39,9 @@ $ rosrun mypkg twice.py
 ```
 ## 実行結果
 
+## ライセンス
+
+BSD 3-Clause "New" or "Revised" License
 
 
 
