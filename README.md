@@ -38,7 +38,7 @@ $ rosrun mypkg count.py
 $ rosrun mypkg twice.py
 ```
 ## 実行結果
-
+https://youtu.be/ZN6E1NBrUIM
 ## ライセンス
 
 BSD 3-Clause "New" or "Revised" License
